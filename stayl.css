@@ -611,7 +611,9 @@ h4 b {
         background-color: #eee;
         justify-content: center;
     }
-
+.about-sixteen-clothing-box {
+        flex-direction: column-reverse;
+    }
     #menubtn:checked~nav {
         height: 430px;
     }
