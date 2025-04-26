@@ -34,9 +34,7 @@ label {
 nav a {
     text-decoration: none;
     font-size: 13px;
-    border-bottom: 1px solid #4a4a4a;
 }
-
 nav ul {
     display: flex;
     justify-content: center;
@@ -472,12 +470,16 @@ h4 b {
     nav ul a {
         color: black;
         text-align: center;
+        padding:20px;
 
     }
 
     nav ul li {
         width: 100%;
         border-bottom: 1px solid #eee;
+        dislay:flex;
+        justify-content:center;
+        align-items:center;
     }
 
     .praduct {
@@ -504,15 +506,21 @@ h4 b {
         font-size: 62px;
     }
 
-    nav ul li {
-        width: 100%;
-        border-bottom: 1px solid #bbb9b9;
-    }
-
-    nav ul a {
+  nav ul a {
         color: black;
         text-align: center;
+        padding:20px;
+
     }
+
+    nav ul li {
+        width: 100%;
+        border-bottom: 1px solid #eee;
+        dislay:flex;
+        justify-content:center;
+        align-items:center;
+    }
+
 
     .about-sixteen-clothing-box {
         flex-direction: column-reverse;
@@ -539,13 +547,21 @@ h4 b {
         height: 430px;
     }
 
-    ul li {
-        width: 100%;
+   nav ul a {
+        color: black;
+        text-align: center;
+        padding:20px;
+
     }
 
-    nav a {
+    nav ul li {
         width: 100%;
+        border-bottom: 1px solid #eee;
+        dislay:flex;
+        justify-content:center;
+        align-items:center;
     }
+
 
     .praduct {
         width: 80%;
@@ -586,10 +602,21 @@ h4 b {
         justify-content: space-between;
         position: relative;
     }
-    nav ul li {
-        justify-content: center;
-        width: 100%;
+   nav ul a {
+        color: black;
+        text-align: center;
+        padding:20px;
+
     }
+
+    nav ul li {
+        width: 100%;
+        border-bottom: 1px solid #eee;
+        dislay:flex;
+        justify-content:center;
+        align-items:center;
+    }
+
 
     .praduct {
         width: 80%;
